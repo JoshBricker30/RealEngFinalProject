@@ -126,6 +126,16 @@ while True:
 ```
 
 
+
+## Evidence
+<img width="807" alt="MotorControlWiring" src="https://github.com/JoshBricker30/RealEngFinalProject/assets/143528213/792b9a85-455a-4456-ade9-b6b7b5da4822">
+
+
+
+
+
+
+
 ## Links
 
 https://docs.google.com/spreadsheets/d/137HGSNZTTR_IkVGg8gcBn5OXVTHr438-3fES2nv-ZDA/edit#gid=0
