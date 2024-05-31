@@ -130,11 +130,8 @@ while True:
 ## Evidence
 <img width="807" alt="MotorControlWiring" src="https://github.com/JoshBricker30/RealEngFinalProject/assets/143528213/792b9a85-455a-4456-ade9-b6b7b5da4822">
 https://mail.google.com/mail/u/0?ui=2&ik=a8e18dcf54&attid=0.1&permmsgid=msg-f:1800497805311132811&th=18fca736e870c48b&view=att&disp=safe&realattid=18fca721bc798fc668d2
-
 https://mail.google.com/mail/u/0?ui=2&ik=a8e18dcf54&attid=0.2&permmsgid=msg-f:1800497805311132811&th=18fca736e870c48b&view=att&disp=safe&realattid=18fca721bc0fd427a8e1
-
 https://mail.google.com/mail/u/0?ui=2&ik=a8e18dcf54&attid=0.3&permmsgid=msg-f:1800497805311132811&th=18fca736e870c48b&view=att&disp=safe&realattid=18fca721bccd0703e8b3
-
 https://mail.google.com/mail/u/0?ui=2&ik=a8e18dcf54&attid=0.4&permmsgid=msg-f:1800497805311132811&th=18fca736e870c48b&view=att&disp=safe&realattid=18fca721bce5ee4073d4
 
 ## Links
