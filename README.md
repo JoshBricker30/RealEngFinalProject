@@ -129,6 +129,10 @@ while True:
 
 ## Evidence
 <img width="807" alt="MotorControlWiring" src="https://github.com/JoshBricker30/RealEngFinalProject/assets/143528213/792b9a85-455a-4456-ade9-b6b7b5da4822">
+![pic 1](https://github.com/JoshBricker30/RealEngFinalProject/assets/143528213/f8d4a1ed-c115-43d5-a261-8eea060b5e3d)
+![pic 3](https://github.com/JoshBricker30/RealEngFinalProject/assets/143528213/ac3477c1-2166-4b6e-8332-4088ab2970cf)
+![pic 4](https://github.com/JoshBricker30/RealEngFinalProject/assets/143528213/69f4798e-6c1a-48cb-b1ea-607969eaf213)
+![pic2](https://github.com/JoshBricker30/RealEngFinalProject/assets/143528213/3e35c57a-1387-4556-b868-c1df632bbc28)
 
 
 ## Links
