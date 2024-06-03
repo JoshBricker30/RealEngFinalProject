@@ -147,7 +147,7 @@ https://docs.google.com/spreadsheets/d/137HGSNZTTR_IkVGg8gcBn5OXVTHr438-3fES2nv-
 
 ## Risk Mitigation
 
-First risk mitigation that i face with with
+First risk mitigation that I face with was the size or dimension the second  risk that I face with was print everytime when I print something it was wrong so I had to print again and because of that I had to print many time. Other than that we need little more time. However we try our best and the result was in the evidence.
 
 
 ## Reflection
